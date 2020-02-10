@@ -3,7 +3,7 @@ using StackExchange.Redis;
 using System.Configuration;
 using Newtonsoft.Json;
 
-namespace AzureRedisCacheApi
+namespace AzureRedisCacheApiQuickstart
 {
     class Program
     {
