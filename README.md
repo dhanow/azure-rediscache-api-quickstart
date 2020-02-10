@@ -2,6 +2,6 @@
 
 Azure Redis Cache Api Quickstart
 
-![Azure Redis Cache Api Quickstart](./docs/images/AzureRedisCacheApiQuickstart.PNG)
+![Azure Redis Cache Api](./docs/images/AzureRedisCacheApi.PNG)
 
-![Azure Redis Cache Api Quickstart Output](./docs/images/AzureRedisCacheApiQuickstartOutput.PNG)
+![Azure Redis Cache Api Output](./docs/images/AzureRedisCacheApiOutput.PNG)
