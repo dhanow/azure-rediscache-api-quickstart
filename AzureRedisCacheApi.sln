@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureRedisCacheApi", "AzureRedisCacheApi.csproj", "{567A162C-9568-4D50-9036-AD9759836A8E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{567A162C-9568-4D50-9036-AD9759836A8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{567A162C-9568-4D50-9036-AD9759836A8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{567A162C-9568-4D50-9036-AD9759836A8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{567A162C-9568-4D50-9036-AD9759836A8E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EF9A04AC-333B-4DA8-B4D5-84029F7F6760}
+	EndGlobalSection
+EndGlobal
